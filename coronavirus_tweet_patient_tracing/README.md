@@ -58,8 +58,8 @@ A few simple examples to help you understand the basics:
 - `python3 tweep.py -g="148.880048,232.385939,1km" -o file.csv --csv` - Scrape Tweets from a radius of 1km around a place and export them to a csv file.
 
 ## Example String
-` 1259005647011680258 2020-05-08 06:21:52 UTC <bardoliguide> Covid19 positive Female patient :Patient Name: Samira Huusen MansooriResidential Area: Taivad, Bardoli..Travel history: from Ahmedavad on 7.5.2020 to Bardoli.Currently she was Shifted to Maliba covid care…  https://www.instagram.com/p/B_9PRk_jVYz/?igshid=y06ebos24phj …
-`
+
+> 1259005647011680258 2020-05-08 06:21:52 UTC <bardoliguide> Covid19 positive Female patient :Patient Name: Samira Huusen MansooriResidential Area: Taivad, Bardoli..Travel history: from Ahmedavad on 7.5.2020 to Bardoli.Currently she was Shifted to Maliba covid care…  https://www.instagram.com/p/B_9PRk_jVYz/?igshid=y06ebos24phj …
+
 </br>
-`1256229160839778306 2020-05-01 14:29:06 UTC <rajanpalanii> @mybmc @mybmcWardGN @mayor_mumbai @MantralayaRoom Patient diagnosed positive to Covid19. BMC not helping. He is still at home. Name: R Balachandar( 42yrs) _ 9833072646Address: Divine Shelter CHS RNO 405, Opp Dr Ambedkar school Dharavi cross road.`
-</br>
+>1256229160839778306 2020-05-01 14:29:06 UTC <rajanpalanii> @mybmc @mybmcWardGN @mayor_mumbai @MantralayaRoom Patient diagnosed positive to Covid19. BMC not helping. He is still at home. Name: R Balachandar( 42yrs) _ 9833072646Address: Divine Shelter CHS RNO 405, Opp Dr Ambedkar school Dharavi cross road.
